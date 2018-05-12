@@ -1,0 +1,32 @@
+_repo: Pathfinders-of-the-Great-PlainsA-Chronicle-of-La-V-rendrye-and-his-Sons_30145
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burpee, Lawrence J. (Lawrence Johnstone)
+    aliases:
+    - Burpee, Lawrence Johnstone
+    - Burpee, L. J. (Lawrence Johnstone)
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '28364'
+    url: http://www.gutenberg.org/2009/agents/28364
+    wikipedia: http://en.wikipedia.org/wiki/Lawrence_Johnston_Burpee
+description: ''
+gutenberg_issued: '2009-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30145'
+  lccn: '15013575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New France -- Discovery and exploration'
+- !lcc 'F1001'
+- !lcsh 'La Vérendrye, Pierre Gaultier de Varennes, sieur de, 1685-1749'
+title: 'Pathfinders of the Great Plains: A Chronicle of La Vérendrye and his Sons'
+url: http://www.gutenberg.org/ebooks/30145
