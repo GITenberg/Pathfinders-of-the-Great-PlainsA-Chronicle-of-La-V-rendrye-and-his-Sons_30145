@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28364
     wikipedia: http://en.wikipedia.org/wiki/Lawrence_Johnston_Burpee
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30145#Pathfinders-of-the-Great-PlainsA-Chronicle-of-La-V-rendrye-and-his-Sons
 gutenberg_issued: '2009-10-01'
 gutenberg_type: Text
 identifiers:
